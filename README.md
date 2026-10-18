@@ -1,4 +1,4 @@
-![FreeLLM.net](og-image.jpg)
+[![FreeLLM.net](og-image.jpg)](https://freellm.net)
 
 # free-llm-models
 
