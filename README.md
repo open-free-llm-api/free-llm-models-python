@@ -60,3 +60,15 @@ flm.meta()                 # {'updated', 'source', 'count'}
 ## License
 
 MIT
+
+## Relationship with awesome-freellm-apis
+
+This package is the machine-readable companion to [awesome-freellm-apis](https://github.com/open-free-llm-api/awesome-freellm-apis) (the curated awesome list, 4.4k+ stars).
+
+| | awesome-freellm-apis | free-llm-models |
+|---|---|---|
+| Format | Human-readable awesome list | JSON data + CLI + API |
+| Use case | Browse & compare in browser | Query from terminal / code |
+| Data source | Same freellm.net dataset | Same freellm.net dataset |
+
+Both are maintained by the [open-free-llm-api](https://github.com/open-free-llm-api) org and synced from [freellm.net](https://freellm.net).
