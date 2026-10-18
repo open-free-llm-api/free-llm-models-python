@@ -1,4 +1,4 @@
-[![FreeLLM.net](og-image.jpg)](https://freellm.net)
+[![FreeLLM.net](https://github.com/open-free-llm-api/free-llm-models-python/raw/main/og-image.jpg)](https://freellm.net)
 
 # free-llm-models
 
