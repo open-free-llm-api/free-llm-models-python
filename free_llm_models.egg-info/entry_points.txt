@@ -1,0 +1,2 @@
+[console_scripts]
+free-llm-models = free_llm_models.cli:main

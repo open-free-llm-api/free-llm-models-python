@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+free_llm_models/__init__.py
+free_llm_models/cli.py
+free_llm_models.egg-info/PKG-INFO
+free_llm_models.egg-info/SOURCES.txt
+free_llm_models.egg-info/dependency_links.txt
+free_llm_models.egg-info/entry_points.txt
+free_llm_models.egg-info/top_level.txt
+free_llm_models/../data/models.json

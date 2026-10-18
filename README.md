@@ -1,3 +1,5 @@
+![FreeLLM.net](og-image.jpg)
+
 # free-llm-models
 
 [![PyPI version](https://img.shields.io/pypi/v/free-llm-models.svg)](https://pypi.org/project/free-llm-models/)

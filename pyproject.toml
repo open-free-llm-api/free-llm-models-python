@@ -7,9 +7,6 @@ name = "free-llm-models"
 version = "1.0.0"
 description = "A curated list of free LLM APIs and models. Query 500+ free models from 30+ providers."
 readme = "README.md"
-homepage = "https://freellm.net"
-repository = "https://github.com/open-free-llm-api/free-llm-models-python"
-documentation = "https://freellm.net"
 authors = [{name = "MyToolster"}]
 license = {text = "MIT"}
 keywords = ["llm", "free", "ai", "models", "api", "openai", "claude", "gpt"]
