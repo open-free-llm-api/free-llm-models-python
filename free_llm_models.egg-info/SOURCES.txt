@@ -1,5 +1,8 @@
+MANIFEST.in
 README.md
+og-image.jpg
 pyproject.toml
+data/models.json
 free_llm_models/__init__.py
 free_llm_models/cli.py
 free_llm_models.egg-info/PKG-INFO

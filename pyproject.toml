@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "free-llm-models"
-version = "1.0.0"
+version = "1.0.1"
 description = "A curated list of free LLM APIs and models. Query 500+ free models from 30+ providers."
 readme = "README.md"
 authors = [{name = "MyToolster"}]

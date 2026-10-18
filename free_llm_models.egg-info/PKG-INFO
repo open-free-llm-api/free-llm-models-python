@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: free-llm-models
-Version: 1.0.0
+Version: 1.0.1
 Summary: A curated list of free LLM APIs and models. Query 500+ free models from 30+ providers.
 Author: MyToolster
 License: MIT
@@ -13,6 +13,8 @@ Classifier: License :: OSI Approved :: MIT License
 Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
 Requires-Python: >=3.8
 Description-Content-Type: text/markdown
+
+![FreeLLM.net](og-image.jpg)
 
 # free-llm-models
 
