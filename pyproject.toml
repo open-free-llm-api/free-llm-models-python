@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "free-llm-models"
+version = "1.0.0"
+description = "A curated list of free LLM APIs and models. Query 500+ free models from 30+ providers."
+readme = "README.md"
+homepage = "https://freellm.net"
+repository = "https://github.com/open-free-llm-api/free-llm-models-python"
+documentation = "https://freellm.net"
+authors = [{name = "MyToolster"}]
+license = {text = "MIT"}
+keywords = ["llm", "free", "ai", "models", "api", "openai", "claude", "gpt"]
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+
+[project.scripts]
+free-llm-models = "free_llm_models.cli:main"
+
+[project.urls]
+"Homepage" = "https://freellm.net"
+"Repository" = "https://github.com/open-free-llm-api/free-llm-models-python"
+"Bug Reports" = "https://github.com/open-free-llm-api/free-llm-models-python/issues"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["free_llm_models*"]
+
+[tool.setuptools.package-data]
+free_llm_models = ["../data/models.json"]

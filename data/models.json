@@ -1,0 +1,4303 @@
+{
+  "updated": "2026-10-18",
+  "source": "https://freellm.net",
+  "count": 537,
+  "models": [
+    {
+      "id": "aion-1-0",
+      "name": "aion-1.0",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": false,
+      "released": "2025-02-04T19:32:37.000Z"
+    },
+    {
+      "id": "aion-1-0-mini",
+      "name": "aion-1.0-mini",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": false,
+      "released": "2025-02-04T19:25:07.000Z"
+    },
+    {
+      "id": "aion-2-0",
+      "name": "aion-2.0",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-02-23T21:15:06.000Z"
+    },
+    {
+      "id": "aion-3-0",
+      "name": "aion-3.0",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-07-07T16:51:35.000Z"
+    },
+    {
+      "id": "aion-3-0-mini",
+      "name": "aion-3.0-mini",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-07-07T16:51:36.000Z"
+    },
+    {
+      "id": "aion-3-5",
+      "name": "aion-3.5",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-23T13:42:41.000Z"
+    },
+    {
+      "id": "aion-3-5-mini",
+      "name": "aion-3.5-mini",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-23T13:42:42.000Z"
+    },
+    {
+      "id": "aion-rp-llama-3-1-8b",
+      "name": "aion-rp-llama-3.1-8b",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": false,
+      "released": "2025-02-04T19:18:38.000Z"
+    },
+    {
+      "id": "apodex-1-1-mini",
+      "name": "apodex-1.1-mini",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-10-01T17:22:15.000Z"
+    },
+    {
+      "id": "auto",
+      "name": "auto",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2023-11-08T00:00:00.000Z"
+    },
+    {
+      "id": "auto-beta",
+      "name": "auto-beta",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-07-17T17:59:25.000Z"
+    },
+    {
+      "id": "bodybuilder",
+      "name": "bodybuilder",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": false,
+      "released": "2025-12-05T03:00:53.000Z"
+    },
+    {
+      "id": "claude-3-haiku",
+      "name": "claude-3-haiku",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": false,
+      "released": "2024-03-13T00:00:00.000Z"
+    },
+    {
+      "id": "claude-3-5-haiku",
+      "name": "claude-3.5-haiku",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": false,
+      "released": "2024-11-04T00:00:00.000Z"
+    },
+    {
+      "id": "claude-fable-5",
+      "name": "claude-fable-5",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-06-09T12:18:35.000Z"
+    },
+    {
+      "id": "claude-fable-5-1",
+      "name": "claude-fable-5.1",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-01T18:03:58.000Z"
+    },
+    {
+      "id": "claude-fable-5-1-batch",
+      "name": "claude-fable-5.1:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-01T18:03:58.000Z"
+    },
+    {
+      "id": "claude-fable-5-batch",
+      "name": "claude-fable-5:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-06-09T12:18:35.000Z"
+    },
+    {
+      "id": "claude-fable-latest",
+      "name": "claude-fable-latest",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-06-09T18:32:24.000Z"
+    },
+    {
+      "id": "claude-haiku-4-5",
+      "name": "claude-haiku-4.5",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-10-15T17:00:38.000Z"
+    },
+    {
+      "id": "claude-haiku-4-5-batch",
+      "name": "claude-haiku-4.5:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-10-15T17:00:38.000Z"
+    },
+    {
+      "id": "claude-haiku-5-5",
+      "name": "claude-haiku-5.5",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-10-07T18:31:23.000Z"
+    },
+    {
+      "id": "claude-haiku-5-5-batch",
+      "name": "claude-haiku-5.5:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-10-07T18:31:23.000Z"
+    },
+    {
+      "id": "claude-haiku-latest",
+      "name": "claude-haiku-latest",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-04-27T19:34:52.000Z"
+    },
+    {
+      "id": "claude-opus-4",
+      "name": "claude-opus-4",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": false,
+      "released": "2025-05-22T16:27:25.000Z"
+    },
+    {
+      "id": "claude-opus-4-1",
+      "name": "claude-opus-4.1",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": false,
+      "released": "2025-08-05T16:33:11.000Z"
+    },
+    {
+      "id": "claude-opus-4-1-batch",
+      "name": "claude-opus-4.1:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-08-05T16:33:11.000Z"
+    },
+    {
+      "id": "claude-opus-4-5",
+      "name": "claude-opus-4.5",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-11-24T18:56:20.000Z"
+    },
+    {
+      "id": "claude-opus-4-5-batch",
+      "name": "claude-opus-4.5:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-11-24T18:56:20.000Z"
+    },
+    {
+      "id": "claude-opus-4-6",
+      "name": "claude-opus-4.6",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-02-04T15:30:50.000Z"
+    },
+    {
+      "id": "claude-opus-4-6-fast",
+      "name": "claude-opus-4.6-fast",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-04-07T20:07:52.000Z"
+    },
+    {
+      "id": "claude-opus-4-6-batch",
+      "name": "claude-opus-4.6:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-02-04T15:30:50.000Z"
+    },
+    {
+      "id": "claude-opus-4-7",
+      "name": "claude-opus-4.7",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-04-16T14:51:40.000Z"
+    },
+    {
+      "id": "claude-opus-4-7-fast",
+      "name": "claude-opus-4.7-fast",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-05-12T19:10:11.000Z"
+    },
+    {
+      "id": "claude-opus-4-7-batch",
+      "name": "claude-opus-4.7:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-04-16T14:51:40.000Z"
+    },
+    {
+      "id": "claude-opus-4-8",
+      "name": "claude-opus-4.8",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-05-27T18:04:51.000Z"
+    },
+    {
+      "id": "claude-opus-4-8-fast",
+      "name": "claude-opus-4.8-fast",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-05-27T20:28:23.000Z"
+    },
+    {
+      "id": "claude-opus-4-8-batch",
+      "name": "claude-opus-4.8:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-05-27T18:04:51.000Z"
+    },
+    {
+      "id": "claude-opus-5",
+      "name": "claude-opus-5",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-07-24T17:02:24.000Z"
+    },
+    {
+      "id": "claude-opus-5-fast",
+      "name": "claude-opus-5-fast",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-07-24T17:02:26.000Z"
+    },
+    {
+      "id": "claude-opus-5-5",
+      "name": "claude-opus-5.5",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-22T16:32:12.000Z"
+    },
+    {
+      "id": "claude-opus-5-5-batch",
+      "name": "claude-opus-5.5:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-22T16:32:12.000Z"
+    },
+    {
+      "id": "claude-opus-5-batch",
+      "name": "claude-opus-5:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-07-24T17:02:24.000Z"
+    },
+    {
+      "id": "claude-opus-latest",
+      "name": "claude-opus-latest",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-04-21T18:16:01.000Z"
+    },
+    {
+      "id": "claude-sonnet-4",
+      "name": "claude-sonnet-4",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": false,
+      "released": "2025-05-22T16:12:51.000Z"
+    },
+    {
+      "id": "claude-sonnet-4-5",
+      "name": "claude-sonnet-4.5",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-09-29T16:01:16.000Z"
+    },
+    {
+      "id": "claude-sonnet-4-5-batch",
+      "name": "claude-sonnet-4.5:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-09-29T16:01:16.000Z"
+    },
+    {
+      "id": "claude-sonnet-4-6",
+      "name": "claude-sonnet-4.6",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-02-17T15:43:10.000Z"
+    },
+    {
+      "id": "claude-sonnet-4-6-batch",
+      "name": "claude-sonnet-4.6:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-02-17T15:43:10.000Z"
+    },
+    {
+      "id": "claude-sonnet-5",
+      "name": "claude-sonnet-5",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-06-30T18:11:23.000Z"
+    },
+    {
+      "id": "claude-sonnet-5-5",
+      "name": "claude-sonnet-5.5",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-28T18:04:46.000Z"
+    },
+    {
+      "id": "claude-sonnet-5-5-batch",
+      "name": "claude-sonnet-5.5:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-28T18:04:46.000Z"
+    },
+    {
+      "id": "claude-sonnet-5-batch",
+      "name": "claude-sonnet-5:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-06-30T18:11:23.000Z"
+    },
+    {
+      "id": "claude-sonnet-latest",
+      "name": "claude-sonnet-latest",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-04-27T19:32:48.000Z"
+    },
+    {
+      "id": "coder-large",
+      "name": "coder-large",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": false,
+      "released": "2025-05-05T20:57:43.000Z"
+    },
+    {
+      "id": "codestral-2508",
+      "name": "codestral-2508",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-08-01T20:20:30.000Z"
+    },
+    {
+      "id": "codestral-2508-batch",
+      "name": "codestral-2508:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-08-01T20:20:30.000Z"
+    },
+    {
+      "id": "cogito-v2-1-671b",
+      "name": "cogito-v2.1-671b",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2025-11-13T22:00:33.000Z"
+    },
+    {
+      "id": "command-a",
+      "name": "command-a",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2025-03-13T19:32:22.000Z"
+    },
+    {
+      "id": "command-a-plus",
+      "name": "command-a-plus",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-22T18:48:16.000Z"
+    },
+    {
+      "id": "command-r-08-2024",
+      "name": "command-r-08-2024",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2024-08-30T00:00:00.000Z"
+    },
+    {
+      "id": "command-r-plus-08-2024",
+      "name": "command-r-plus-08-2024",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2024-08-30T00:00:00.000Z"
+    },
+    {
+      "id": "command-r7b-12-2024",
+      "name": "command-r7b-12-2024",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2024-12-14T06:35:52.000Z"
+    },
+    {
+      "id": "cydonia-24b-v4-1",
+      "name": "cydonia-24b-v4.1",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2025-09-27T00:11:18.000Z"
+    },
+    {
+      "id": "deepseek-chat",
+      "name": "deepseek-chat",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2024-12-26T19:28:40.000Z"
+    },
+    {
+      "id": "deepseek-chat-v3-0324",
+      "name": "deepseek-chat-v3-0324",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-03-24T13:59:15.000Z"
+    },
+    {
+      "id": "deepseek-chat-v3-1",
+      "name": "deepseek-chat-v3.1",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-08-21T12:33:48.000Z"
+    },
+    {
+      "id": "deepseek-flash-latest",
+      "name": "deepseek-flash-latest",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-14T15:19:10.000Z"
+    },
+    {
+      "id": "deepseek-pro-latest",
+      "name": "deepseek-pro-latest",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-14T15:19:34.000Z"
+    },
+    {
+      "id": "deepseek-r1",
+      "name": "deepseek-r1",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-01-20T13:51:35.000Z"
+    },
+    {
+      "id": "deepseek-r1-0528",
+      "name": "deepseek-r1-0528",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-05-28T17:59:30.000Z"
+    },
+    {
+      "id": "deepseek-r1-distill-llama-70b",
+      "name": "deepseek-r1-distill-llama-70b",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": false,
+      "released": "2025-01-23T20:12:49.000Z"
+    },
+    {
+      "id": "deepseek-r1-distill-qwen-32b",
+      "name": "deepseek-r1-distill-qwen-32b",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2025-01-29T23:53:50.000Z"
+    },
+    {
+      "id": "deepseek-v3-1-terminus",
+      "name": "deepseek-v3.1-terminus",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-09-22T13:37:55.000Z"
+    },
+    {
+      "id": "deepseek-v3-2",
+      "name": "deepseek-v3.2",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-12-01T13:10:42.000Z"
+    },
+    {
+      "id": "deepseek-v3-2-exp",
+      "name": "deepseek-v3.2-exp",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-09-29T12:54:41.000Z"
+    },
+    {
+      "id": "deepseek-v4-flash",
+      "name": "deepseek-v4-flash",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-04-24T03:17:46.000Z"
+    },
+    {
+      "id": "deepseek-v4-flash-0731",
+      "name": "deepseek-v4-flash-0731",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-07-31T06:21:48.000Z"
+    },
+    {
+      "id": "deepseek-v4-flash-0731-batch",
+      "name": "deepseek-v4-flash-0731:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-07-31T06:21:48.000Z"
+    },
+    {
+      "id": "deepseek-v4-flash-latest",
+      "name": "deepseek-v4-flash-latest",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-08-01T17:40:09.000Z"
+    },
+    {
+      "id": "deepseek-v4-flash-vision-exp",
+      "name": "deepseek-v4-flash-vision-exp",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-08-21T11:26:03.000Z"
+    },
+    {
+      "id": "deepseek-v4-flash-vision-exp-batch",
+      "name": "deepseek-v4-flash-vision-exp:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-08-21T11:26:03.000Z"
+    },
+    {
+      "id": "deepseek-v4-pro",
+      "name": "deepseek-v4-pro",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-04-24T03:17:59.000Z"
+    },
+    {
+      "id": "deepseek-v4-pro-0813",
+      "name": "deepseek-v4-pro-0813",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-08-12T15:42:44.000Z"
+    },
+    {
+      "id": "deepseek-v4-pro-0813-batch",
+      "name": "deepseek-v4-pro-0813:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-08-12T15:42:44.000Z"
+    },
+    {
+      "id": "deepseek-v4-1-flash",
+      "name": "deepseek-v4.1-flash",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-10T06:21:25.000Z"
+    },
+    {
+      "id": "deepseek-v4-1-flash-batch",
+      "name": "deepseek-v4.1-flash:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-10T06:21:25.000Z"
+    },
+    {
+      "id": "devstral-2512",
+      "name": "devstral-2512",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-12-09T13:03:39.000Z"
+    },
+    {
+      "id": "dolphin-mistral-24b-venice-edition",
+      "name": "dolphin-mistral-24b-venice-edition",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2025-07-09T21:02:46.000Z"
+    },
+    {
+      "id": "dots-3-note-preview",
+      "name": "dots-3-note-preview",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-08-14T04:06:01.000Z"
+    },
+    {
+      "id": "ember-1",
+      "name": "ember-1",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-24T00:07:41.000Z"
+    },
+    {
+      "id": "ernie-4-5-vl-424b-a47b",
+      "name": "ernie-4.5-vl-424b-a47b",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": false,
+      "released": "2025-06-30T16:28:23.000Z"
+    },
+    {
+      "id": "free",
+      "name": "free",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-02-01T03:43:47.000Z"
+    },
+    {
+      "id": "fugu-max",
+      "name": "fugu-max",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-11T05:32:51.000Z"
+    },
+    {
+      "id": "fugu-ultra",
+      "name": "fugu-ultra",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-06-24T04:45:03.000Z"
+    },
+    {
+      "id": "fugu-ultra-v2",
+      "name": "fugu-ultra-v2",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-11T05:43:03.000Z"
+    },
+    {
+      "id": "fusion",
+      "name": "fusion",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": false,
+      "released": "2026-05-12T16:33:26.000Z"
+    },
+    {
+      "id": "gemini-2-5-flash",
+      "name": "gemini-2.5-flash",
+      "provider": "google-gemini",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-06-17T15:01:28.000Z"
+    },
+    {
+      "id": "gemini-2-5-flash-image",
+      "name": "gemini-2.5-flash-image",
+      "provider": "google-gemini",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2025-10-07T20:53:51.000Z"
+    },
+    {
+      "id": "gemini-2-5-flash-lite",
+      "name": "gemini-2.5-flash-lite",
+      "provider": "google-gemini",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-07-22T16:04:36.000Z"
+    },
+    {
+      "id": "gemini-2-5-flash-lite-preview-09-2025",
+      "name": "gemini-2.5-flash-lite-preview-09-2025",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-09-25T17:01:26.000Z"
+    },
+    {
+      "id": "gemini-2-5-flash-lite-batch",
+      "name": "gemini-2.5-flash-lite:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-07-22T16:04:36.000Z"
+    },
+    {
+      "id": "gemini-2-5-flash-batch",
+      "name": "gemini-2.5-flash:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-06-17T15:01:28.000Z"
+    },
+    {
+      "id": "gemini-2-5-pro",
+      "name": "gemini-2.5-pro",
+      "provider": "google-gemini",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-06-17T14:12:24.000Z"
+    },
+    {
+      "id": "gemini-2-5-pro-preview",
+      "name": "gemini-2.5-pro-preview",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-06-05T15:27:37.000Z"
+    },
+    {
+      "id": "gemini-2-5-pro-preview-05-06",
+      "name": "gemini-2.5-pro-preview-05-06",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-05-07T00:41:53.000Z"
+    },
+    {
+      "id": "gemini-2-5-pro-batch",
+      "name": "gemini-2.5-pro:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-06-17T14:12:24.000Z"
+    },
+    {
+      "id": "gemini-3-flash-preview",
+      "name": "gemini-3-flash-preview",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-12-17T15:57:58.000Z"
+    },
+    {
+      "id": "gemini-3-flash-preview-batch",
+      "name": "gemini-3-flash-preview:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-12-17T15:57:58.000Z"
+    },
+    {
+      "id": "gemini-3-pro-image",
+      "name": "gemini-3-pro-image",
+      "provider": "google-gemini",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-06-18T03:40:54.000Z"
+    },
+    {
+      "id": "gemini-3-pro-image-preview",
+      "name": "gemini-3-pro-image-preview",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2025-11-20T15:49:57.000Z"
+    },
+    {
+      "id": "gemini-3-1-flash-image",
+      "name": "gemini-3.1-flash-image",
+      "provider": "google-gemini",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2026-06-18T03:41:05.000Z"
+    },
+    {
+      "id": "gemini-3-1-flash-image-preview",
+      "name": "gemini-3.1-flash-image-preview",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2026-02-26T15:25:58.000Z"
+    },
+    {
+      "id": "gemini-3-1-flash-lite",
+      "name": "gemini-3.1-flash-lite",
+      "provider": "google-gemini",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-05-07T15:47:08.000Z"
+    },
+    {
+      "id": "gemini-3-1-flash-lite-image",
+      "name": "gemini-3.1-flash-lite-image",
+      "provider": "google-gemini",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2026-06-30T16:33:45.000Z"
+    },
+    {
+      "id": "gemini-3-1-flash-lite-preview",
+      "name": "gemini-3.1-flash-lite-preview",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-03-03T04:37:53.000Z"
+    },
+    {
+      "id": "gemini-3-1-flash-lite-batch",
+      "name": "gemini-3.1-flash-lite:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-05-07T15:47:08.000Z"
+    },
+    {
+      "id": "gemini-3-1-pro-preview",
+      "name": "gemini-3.1-pro-preview",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-02-19T14:00:27.000Z"
+    },
+    {
+      "id": "gemini-3-1-pro-preview-customtools",
+      "name": "gemini-3.1-pro-preview-customtools",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-02-25T18:58:43.000Z"
+    },
+    {
+      "id": "gemini-3-1-pro-preview-batch",
+      "name": "gemini-3.1-pro-preview:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-02-19T14:00:27.000Z"
+    },
+    {
+      "id": "gemini-3-5-flash",
+      "name": "gemini-3.5-flash",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-05-19T12:30:00.000Z"
+    },
+    {
+      "id": "gemini-3-5-flash-lite",
+      "name": "gemini-3.5-flash-lite",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-07-21T15:12:06.000Z"
+    },
+    {
+      "id": "gemini-3-5-flash-lite-batch",
+      "name": "gemini-3.5-flash-lite:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-07-21T15:12:06.000Z"
+    },
+    {
+      "id": "gemini-3-5-flash-batch",
+      "name": "gemini-3.5-flash:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-05-19T12:30:00.000Z"
+    },
+    {
+      "id": "gemini-3-6-flash",
+      "name": "gemini-3.6-flash",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-07-21T15:12:13.000Z"
+    },
+    {
+      "id": "gemini-3-6-flash-batch",
+      "name": "gemini-3.6-flash:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-07-21T15:12:13.000Z"
+    },
+    {
+      "id": "gemini-3-7-flash",
+      "name": "gemini-3.7-flash",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-08-13T17:03:01.000Z"
+    },
+    {
+      "id": "gemini-3-7-flash-batch",
+      "name": "gemini-3.7-flash:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-08-13T17:03:01.000Z"
+    },
+    {
+      "id": "gemini-3-8-flash",
+      "name": "gemini-3.8-flash",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-02T15:14:16.000Z"
+    },
+    {
+      "id": "gemini-3-8-flash-batch",
+      "name": "gemini-3.8-flash:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-02T15:14:16.000Z"
+    },
+    {
+      "id": "gemini-flash-latest",
+      "name": "gemini-flash-latest",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-04-27T19:33:18.000Z"
+    },
+    {
+      "id": "gemini-nano-banana-2-1",
+      "name": "gemini-nano-banana-2.1",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-10-06T15:33:45.000Z"
+    },
+    {
+      "id": "gemini-pro-latest",
+      "name": "gemini-pro-latest",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-04-27T19:34:11.000Z"
+    },
+    {
+      "id": "gemma-2-27b-it",
+      "name": "gemma-2-27b-it",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2024-07-13T00:00:00.000Z"
+    },
+    {
+      "id": "gemma-3-12b-it",
+      "name": "gemma-3-12b-it",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-03-13T21:50:25.000Z"
+    },
+    {
+      "id": "gemma-3-27b-it",
+      "name": "gemma-3-27b-it",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-03-12T05:12:39.000Z"
+    },
+    {
+      "id": "gemma-3-4b-it",
+      "name": "gemma-3-4b-it",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2025-03-13T22:38:30.000Z"
+    },
+    {
+      "id": "gemma-3n-e4b-it",
+      "name": "gemma-3n-e4b-it",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2025-05-20T21:33:44.000Z"
+    },
+    {
+      "id": "gemma-4-26b-a4b-it",
+      "name": "gemma-4-26b-a4b-it",
+      "provider": "google-gemini",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-04-03T14:53:09.000Z"
+    },
+    {
+      "id": "gemma-4-31b-it",
+      "name": "gemma-4-31b-it",
+      "provider": "google-gemini",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-04-02T16:48:06.000Z"
+    },
+    {
+      "id": "gemma-4-31b-it-batch",
+      "name": "gemma-4-31b-it:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-04-02T16:48:06.000Z"
+    },
+    {
+      "id": "glm-4-5",
+      "name": "glm-4.5",
+      "provider": "z-ai-zhipu-ai",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-07-25T19:22:27.000Z"
+    },
+    {
+      "id": "glm-4-5-air",
+      "name": "glm-4.5-air",
+      "provider": "z-ai-zhipu-ai",
+      "supportsTools": true,
+      "supportsJson": false,
+      "released": "2025-07-25T19:20:58.000Z"
+    },
+    {
+      "id": "glm-4-5v",
+      "name": "glm-4.5v",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-08-11T14:24:48.000Z"
+    },
+    {
+      "id": "glm-4-6",
+      "name": "glm-4.6",
+      "provider": "z-ai-zhipu-ai",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-09-30T12:32:56.000Z"
+    },
+    {
+      "id": "glm-4-6v",
+      "name": "glm-4.6v",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-12-08T15:24:22.000Z"
+    },
+    {
+      "id": "glm-4-7",
+      "name": "glm-4.7",
+      "provider": "z-ai-zhipu-ai",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-12-22T04:33:34.000Z"
+    },
+    {
+      "id": "glm-4-7-flash",
+      "name": "glm-4.7-flash",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-01-19T14:45:13.000Z"
+    },
+    {
+      "id": "glm-5",
+      "name": "glm-5",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-02-11T16:59:42.000Z"
+    },
+    {
+      "id": "glm-5-turbo",
+      "name": "glm-5-turbo",
+      "provider": "z-ai-zhipu-ai",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-03-15T14:06:13.000Z"
+    },
+    {
+      "id": "glm-5-1",
+      "name": "glm-5.1",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-04-07T16:07:05.000Z"
+    },
+    {
+      "id": "glm-5-2",
+      "name": "glm-5.2",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-06-16T17:45:30.000Z"
+    },
+    {
+      "id": "glm-5-2-batch",
+      "name": "glm-5.2:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-06-16T17:45:30.000Z"
+    },
+    {
+      "id": "glm-5-3",
+      "name": "glm-5.3",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-08-18T20:57:35.000Z"
+    },
+    {
+      "id": "glm-5-3-flash",
+      "name": "glm-5.3-flash",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-08-26T13:59:01.000Z"
+    },
+    {
+      "id": "glm-5-3-flash-batch",
+      "name": "glm-5.3-flash:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-08-26T13:59:01.000Z"
+    },
+    {
+      "id": "glm-5-3-flashx",
+      "name": "glm-5.3-flashx",
+      "provider": "z-ai-zhipu-ai",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-18T15:07:00.000Z"
+    },
+    {
+      "id": "glm-5-3-prime",
+      "name": "glm-5.3-prime",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-23T21:40:51.000Z"
+    },
+    {
+      "id": "glm-5-3-batch",
+      "name": "glm-5.3:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-08-18T20:57:35.000Z"
+    },
+    {
+      "id": "glm-5v-turbo",
+      "name": "glm-5v-turbo",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-04-01T16:37:38.000Z"
+    },
+    {
+      "id": "glm-flash-latest",
+      "name": "glm-flash-latest",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-08-27T08:00:33.000Z"
+    },
+    {
+      "id": "glm-latest",
+      "name": "glm-latest",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-08-19T14:50:53.000Z"
+    },
+    {
+      "id": "gpt-3-5-turbo",
+      "name": "gpt-3.5-turbo",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2023-05-28T00:00:00.000Z"
+    },
+    {
+      "id": "gpt-3-5-turbo-0613",
+      "name": "gpt-3.5-turbo-0613",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2024-01-25T00:00:00.000Z"
+    },
+    {
+      "id": "gpt-3-5-turbo-16k",
+      "name": "gpt-3.5-turbo-16k",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2023-08-28T00:00:00.000Z"
+    },
+    {
+      "id": "gpt-3-5-turbo-instruct",
+      "name": "gpt-3.5-turbo-instruct",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2023-09-28T00:00:00.000Z"
+    },
+    {
+      "id": "gpt-3-5-turbo-batch",
+      "name": "gpt-3.5-turbo:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2023-05-28T00:00:00.000Z"
+    },
+    {
+      "id": "gpt-4",
+      "name": "gpt-4",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2023-05-28T00:00:00.000Z"
+    },
+    {
+      "id": "gpt-4-turbo",
+      "name": "gpt-4-turbo",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2024-04-09T00:00:00.000Z"
+    },
+    {
+      "id": "gpt-4-turbo-preview",
+      "name": "gpt-4-turbo-preview",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2024-01-25T00:00:00.000Z"
+    },
+    {
+      "id": "gpt-4-turbo-batch",
+      "name": "gpt-4-turbo:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2024-04-09T00:00:00.000Z"
+    },
+    {
+      "id": "gpt-4-1",
+      "name": "gpt-4.1",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-04-14T17:23:05.000Z"
+    },
+    {
+      "id": "gpt-4-1-mini",
+      "name": "gpt-4.1-mini",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-04-14T17:23:01.000Z"
+    },
+    {
+      "id": "gpt-4-1-mini-batch",
+      "name": "gpt-4.1-mini:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-04-14T17:23:01.000Z"
+    },
+    {
+      "id": "gpt-4-1-nano",
+      "name": "gpt-4.1-nano",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-04-14T17:22:49.000Z"
+    },
+    {
+      "id": "gpt-4-1-nano-batch",
+      "name": "gpt-4.1-nano:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-04-14T17:22:49.000Z"
+    },
+    {
+      "id": "gpt-4-1-batch",
+      "name": "gpt-4.1:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-04-14T17:23:05.000Z"
+    },
+    {
+      "id": "gpt-4o",
+      "name": "gpt-4o",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2024-05-13T00:00:00.000Z"
+    },
+    {
+      "id": "gpt-4o-2024-05-13",
+      "name": "gpt-4o-2024-05-13",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2024-05-13T00:00:00.000Z"
+    },
+    {
+      "id": "gpt-4o-2024-08-06",
+      "name": "gpt-4o-2024-08-06",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2024-08-06T00:00:00.000Z"
+    },
+    {
+      "id": "gpt-4o-2024-11-20",
+      "name": "gpt-4o-2024-11-20",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2024-11-20T18:33:14.000Z"
+    },
+    {
+      "id": "gpt-4o-mini",
+      "name": "gpt-4o-mini",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2024-07-18T00:00:00.000Z"
+    },
+    {
+      "id": "gpt-4o-mini-2024-07-18",
+      "name": "gpt-4o-mini-2024-07-18",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2024-07-18T00:00:00.000Z"
+    },
+    {
+      "id": "gpt-4o-mini-search-preview",
+      "name": "gpt-4o-mini-search-preview",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2025-03-12T22:22:02.000Z"
+    },
+    {
+      "id": "gpt-4o-mini-batch",
+      "name": "gpt-4o-mini:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2024-07-18T00:00:00.000Z"
+    },
+    {
+      "id": "gpt-4o-search-preview",
+      "name": "gpt-4o-search-preview",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2025-03-12T22:19:09.000Z"
+    },
+    {
+      "id": "gpt-4o-batch",
+      "name": "gpt-4o:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2024-05-13T00:00:00.000Z"
+    },
+    {
+      "id": "gpt-5",
+      "name": "gpt-5",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-08-07T17:23:33.000Z"
+    },
+    {
+      "id": "gpt-5-chat",
+      "name": "gpt-5-chat",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2025-08-07T17:30:37.000Z"
+    },
+    {
+      "id": "gpt-5-codex",
+      "name": "gpt-5-codex",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-09-23T16:03:23.000Z"
+    },
+    {
+      "id": "gpt-5-image",
+      "name": "gpt-5-image",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2025-10-14T13:19:46.000Z"
+    },
+    {
+      "id": "gpt-5-image-mini",
+      "name": "gpt-5-image-mini",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2025-10-16T14:23:03.000Z"
+    },
+    {
+      "id": "gpt-5-mini",
+      "name": "gpt-5-mini",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-08-07T17:23:27.000Z"
+    },
+    {
+      "id": "gpt-5-mini-batch",
+      "name": "gpt-5-mini:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-08-07T17:23:27.000Z"
+    },
+    {
+      "id": "gpt-5-nano",
+      "name": "gpt-5-nano",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-08-07T17:23:22.000Z"
+    },
+    {
+      "id": "gpt-5-nano-batch",
+      "name": "gpt-5-nano:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-08-07T17:23:22.000Z"
+    },
+    {
+      "id": "gpt-5-pro",
+      "name": "gpt-5-pro",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-10-06T18:51:03.000Z"
+    },
+    {
+      "id": "gpt-5-pro-batch",
+      "name": "gpt-5-pro:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-10-06T18:51:03.000Z"
+    },
+    {
+      "id": "gpt-5-1",
+      "name": "gpt-5.1",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-11-13T18:58:25.000Z"
+    },
+    {
+      "id": "gpt-5-1-chat",
+      "name": "gpt-5.1-chat",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-11-13T18:58:22.000Z"
+    },
+    {
+      "id": "gpt-5-1-codex",
+      "name": "gpt-5.1-codex",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-11-13T18:58:18.000Z"
+    },
+    {
+      "id": "gpt-5-1-codex-max",
+      "name": "gpt-5.1-codex-max",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-12-04T20:08:54.000Z"
+    },
+    {
+      "id": "gpt-5-1-codex-mini",
+      "name": "gpt-5.1-codex-mini",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-11-13T18:17:00.000Z"
+    },
+    {
+      "id": "gpt-5-1-batch",
+      "name": "gpt-5.1:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-11-13T18:58:25.000Z"
+    },
+    {
+      "id": "gpt-5-2",
+      "name": "gpt-5.2",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-12-10T18:02:55.000Z"
+    },
+    {
+      "id": "gpt-5-2-chat",
+      "name": "gpt-5.2-chat",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-12-10T18:03:03.000Z"
+    },
+    {
+      "id": "gpt-5-2-codex",
+      "name": "gpt-5.2-codex",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-01-14T16:48:35.000Z"
+    },
+    {
+      "id": "gpt-5-2-pro",
+      "name": "gpt-5.2-pro",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-12-10T18:03:00.000Z"
+    },
+    {
+      "id": "gpt-5-2-pro-batch",
+      "name": "gpt-5.2-pro:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-12-10T18:03:00.000Z"
+    },
+    {
+      "id": "gpt-5-2-batch",
+      "name": "gpt-5.2:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-12-10T18:02:55.000Z"
+    },
+    {
+      "id": "gpt-5-3-chat",
+      "name": "gpt-5.3-chat",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-03-03T18:54:21.000Z"
+    },
+    {
+      "id": "gpt-5-3-codex",
+      "name": "gpt-5.3-codex",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-02-24T18:52:44.000Z"
+    },
+    {
+      "id": "gpt-5-4",
+      "name": "gpt-5.4",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-03-05T18:12:32.000Z"
+    },
+    {
+      "id": "gpt-5-4-image-2",
+      "name": "gpt-5.4-image-2",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2026-04-21T18:52:08.000Z"
+    },
+    {
+      "id": "gpt-5-4-mini",
+      "name": "gpt-5.4-mini",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-03-17T11:49:38.000Z"
+    },
+    {
+      "id": "gpt-5-4-mini-batch",
+      "name": "gpt-5.4-mini:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-03-17T11:49:38.000Z"
+    },
+    {
+      "id": "gpt-5-4-nano",
+      "name": "gpt-5.4-nano",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-03-17T11:49:47.000Z"
+    },
+    {
+      "id": "gpt-5-4-nano-batch",
+      "name": "gpt-5.4-nano:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-03-17T11:49:47.000Z"
+    },
+    {
+      "id": "gpt-5-4-pro",
+      "name": "gpt-5.4-pro",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-03-05T18:12:46.000Z"
+    },
+    {
+      "id": "gpt-5-4-pro-batch",
+      "name": "gpt-5.4-pro:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-03-05T18:12:46.000Z"
+    },
+    {
+      "id": "gpt-5-4-batch",
+      "name": "gpt-5.4:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-03-05T18:12:32.000Z"
+    },
+    {
+      "id": "gpt-5-5",
+      "name": "gpt-5.5",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-04-24T17:31:33.000Z"
+    },
+    {
+      "id": "gpt-5-5-pro",
+      "name": "gpt-5.5-pro",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-04-24T17:31:36.000Z"
+    },
+    {
+      "id": "gpt-5-5-pro-batch",
+      "name": "gpt-5.5-pro:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-04-24T17:31:36.000Z"
+    },
+    {
+      "id": "gpt-5-5-batch",
+      "name": "gpt-5.5:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-04-24T17:31:33.000Z"
+    },
+    {
+      "id": "gpt-5-6-luna",
+      "name": "gpt-5.6-luna",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-07-09T09:54:24.000Z"
+    },
+    {
+      "id": "gpt-5-6-luna-pro",
+      "name": "gpt-5.6-luna-pro",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-07-09T09:54:27.000Z"
+    },
+    {
+      "id": "gpt-5-6-luna-pro-batch",
+      "name": "gpt-5.6-luna-pro:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-07-09T09:54:27.000Z"
+    },
+    {
+      "id": "gpt-5-6-luna-batch",
+      "name": "gpt-5.6-luna:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-07-09T09:54:24.000Z"
+    },
+    {
+      "id": "gpt-5-6-sol",
+      "name": "gpt-5.6-sol",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-07-09T09:54:10.000Z"
+    },
+    {
+      "id": "gpt-5-6-sol-pro",
+      "name": "gpt-5.6-sol-pro",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-07-09T09:54:14.000Z"
+    },
+    {
+      "id": "gpt-5-6-sol-pro-batch",
+      "name": "gpt-5.6-sol-pro:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-07-09T09:54:14.000Z"
+    },
+    {
+      "id": "gpt-5-6-sol-batch",
+      "name": "gpt-5.6-sol:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-07-09T09:54:10.000Z"
+    },
+    {
+      "id": "gpt-5-6-terra",
+      "name": "gpt-5.6-terra",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-07-09T09:54:17.000Z"
+    },
+    {
+      "id": "gpt-5-6-terra-pro",
+      "name": "gpt-5.6-terra-pro",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-07-09T09:54:21.000Z"
+    },
+    {
+      "id": "gpt-5-6-terra-pro-batch",
+      "name": "gpt-5.6-terra-pro:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-07-09T09:54:21.000Z"
+    },
+    {
+      "id": "gpt-5-6-terra-batch",
+      "name": "gpt-5.6-terra:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-07-09T09:54:17.000Z"
+    },
+    {
+      "id": "gpt-5-batch",
+      "name": "gpt-5:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-08-07T17:23:33.000Z"
+    },
+    {
+      "id": "gpt-6-astra",
+      "name": "gpt-6-astra",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-04T20:13:58.000Z"
+    },
+    {
+      "id": "gpt-6-astra-pro",
+      "name": "gpt-6-astra-pro",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-04T20:13:55.000Z"
+    },
+    {
+      "id": "gpt-6-astra-pro-batch",
+      "name": "gpt-6-astra-pro:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-04T20:13:55.000Z"
+    },
+    {
+      "id": "gpt-6-astra-batch",
+      "name": "gpt-6-astra:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-04T20:13:58.000Z"
+    },
+    {
+      "id": "gpt-6-luna",
+      "name": "gpt-6-luna",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-22T18:13:06.000Z"
+    },
+    {
+      "id": "gpt-6-luna-pro",
+      "name": "gpt-6-luna-pro",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-22T18:13:11.000Z"
+    },
+    {
+      "id": "gpt-6-luna-pro-batch",
+      "name": "gpt-6-luna-pro:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-22T18:13:11.000Z"
+    },
+    {
+      "id": "gpt-6-luna-batch",
+      "name": "gpt-6-luna:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-22T18:13:06.000Z"
+    },
+    {
+      "id": "gpt-6-sol",
+      "name": "gpt-6-sol",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-22T18:12:55.000Z"
+    },
+    {
+      "id": "gpt-6-sol-pro",
+      "name": "gpt-6-sol-pro",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-22T18:13:01.000Z"
+    },
+    {
+      "id": "gpt-6-sol-pro-batch",
+      "name": "gpt-6-sol-pro:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-22T18:13:01.000Z"
+    },
+    {
+      "id": "gpt-6-sol-batch",
+      "name": "gpt-6-sol:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-22T18:12:55.000Z"
+    },
+    {
+      "id": "gpt-6-1-sol",
+      "name": "gpt-6.1-sol",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-29T17:28:02.000Z"
+    },
+    {
+      "id": "gpt-6-1-sol-pro",
+      "name": "gpt-6.1-sol-pro",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-29T17:28:06.000Z"
+    },
+    {
+      "id": "gpt-6-1-sol-pro-batch",
+      "name": "gpt-6.1-sol-pro:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-29T17:28:06.000Z"
+    },
+    {
+      "id": "gpt-6-1-sol-batch",
+      "name": "gpt-6.1-sol:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-29T17:28:02.000Z"
+    },
+    {
+      "id": "gpt-astra-latest",
+      "name": "gpt-astra-latest",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-11T12:48:52.000Z"
+    },
+    {
+      "id": "gpt-audio",
+      "name": "gpt-audio",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-01-19T22:42:49.000Z"
+    },
+    {
+      "id": "gpt-audio-mini",
+      "name": "gpt-audio-mini",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-01-19T21:50:19.000Z"
+    },
+    {
+      "id": "gpt-chat-latest",
+      "name": "gpt-chat-latest",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-05-05T16:56:52.000Z"
+    },
+    {
+      "id": "gpt-latest",
+      "name": "gpt-latest",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-04-27T19:32:14.000Z"
+    },
+    {
+      "id": "gpt-luna-latest",
+      "name": "gpt-luna-latest",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-11T12:48:42.000Z"
+    },
+    {
+      "id": "gpt-mini-latest",
+      "name": "gpt-mini-latest",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-04-27T19:34:31.000Z"
+    },
+    {
+      "id": "gpt-oss-120b",
+      "name": "gpt-oss-120b",
+      "provider": "cerebras",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-08-05T17:17:11.000Z"
+    },
+    {
+      "id": "gpt-oss-120b-batch",
+      "name": "gpt-oss-120b:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-08-05T17:17:11.000Z"
+    },
+    {
+      "id": "gpt-oss-20b",
+      "name": "gpt-oss-20b",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-08-05T17:17:09.000Z"
+    },
+    {
+      "id": "gpt-oss-20b-batch",
+      "name": "gpt-oss-20b:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-08-05T17:17:09.000Z"
+    },
+    {
+      "id": "gpt-oss-safeguard-20b",
+      "name": "gpt-oss-safeguard-20b",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-10-29T15:47:16.000Z"
+    },
+    {
+      "id": "gpt-sol-latest",
+      "name": "gpt-sol-latest",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-11T12:48:48.000Z"
+    },
+    {
+      "id": "gpt-terra-latest",
+      "name": "gpt-terra-latest",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-11T12:48:45.000Z"
+    },
+    {
+      "id": "granite-4-0-h-micro",
+      "name": "granite-4.0-h-micro",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2025-10-20T02:34:55.000Z"
+    },
+    {
+      "id": "granite-4-1-8b",
+      "name": "granite-4.1-8b",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-04-30T19:24:31.000Z"
+    },
+    {
+      "id": "granite-4-2-8b",
+      "name": "granite-4.2-8b",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-08-31T20:06:20.000Z"
+    },
+    {
+      "id": "grok-4-20",
+      "name": "grok-4.20",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-03-31T17:43:39.000Z"
+    },
+    {
+      "id": "grok-4-20-multi-agent",
+      "name": "grok-4.20-multi-agent",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2026-03-31T17:45:58.000Z"
+    },
+    {
+      "id": "grok-4-3",
+      "name": "grok-4.3",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-04-30T23:30:21.000Z"
+    },
+    {
+      "id": "grok-4-3-batch",
+      "name": "grok-4.3:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-04-30T23:30:21.000Z"
+    },
+    {
+      "id": "grok-4-5",
+      "name": "grok-4.5",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-07-08T15:05:54.000Z"
+    },
+    {
+      "id": "grok-4-6",
+      "name": "grok-4.6",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-08-12T15:35:57.000Z"
+    },
+    {
+      "id": "grok-4-7",
+      "name": "grok-4.7",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-21T16:19:01.000Z"
+    },
+    {
+      "id": "grok-build-0-1",
+      "name": "grok-build-0.1",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-05-20T17:28:43.000Z"
+    },
+    {
+      "id": "grok-latest",
+      "name": "grok-latest",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-07-08T14:02:40.000Z"
+    },
+    {
+      "id": "hermes-3-llama-3-1-405b",
+      "name": "hermes-3-llama-3.1-405b",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2024-08-16T00:00:00.000Z"
+    },
+    {
+      "id": "hermes-3-llama-3-1-70b",
+      "name": "hermes-3-llama-3.1-70b",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2024-08-18T00:00:00.000Z"
+    },
+    {
+      "id": "hermes-4-405b",
+      "name": "hermes-4-405b",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2025-08-26T19:11:03.000Z"
+    },
+    {
+      "id": "hermes-4-70b",
+      "name": "hermes-4-70b",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2025-08-26T19:23:02.000Z"
+    },
+    {
+      "id": "hunyuan-a13b-instruct",
+      "name": "hunyuan-a13b-instruct",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2025-07-08T15:14:24.000Z"
+    },
+    {
+      "id": "hy-mt2-1-8b",
+      "name": "hy-mt2-1.8b",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": false,
+      "released": "2026-08-20T13:13:01.000Z"
+    },
+    {
+      "id": "hy-mt2-30b-a3b",
+      "name": "hy-mt2-30b-a3b",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2026-08-20T13:12:41.000Z"
+    },
+    {
+      "id": "hy-mt2-7b",
+      "name": "hy-mt2-7b",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2026-08-19T14:13:17.000Z"
+    },
+    {
+      "id": "hy3",
+      "name": "hy3",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-07-06T13:20:48.000Z"
+    },
+    {
+      "id": "hy3-preview",
+      "name": "hy3-preview",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": false,
+      "released": "2026-04-22T17:15:50.000Z"
+    },
+    {
+      "id": "hy4-preview",
+      "name": "hy4-preview",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-08-28T06:09:35.000Z"
+    },
+    {
+      "id": "inflection-3-pi",
+      "name": "inflection-3-pi",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": false,
+      "released": "2024-10-11T00:00:00.000Z"
+    },
+    {
+      "id": "inflection-3-productivity",
+      "name": "inflection-3-productivity",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": false,
+      "released": "2024-10-11T00:00:00.000Z"
+    },
+    {
+      "id": "inkling",
+      "name": "inkling",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": false,
+      "released": "2026-07-17T22:05:56.000Z"
+    },
+    {
+      "id": "inkling-small",
+      "name": "inkling-small",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": false,
+      "released": "2026-07-30T20:25:17.000Z"
+    },
+    {
+      "id": "inkling-small-batch",
+      "name": "inkling-small:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": false,
+      "released": "2026-07-30T20:25:17.000Z"
+    },
+    {
+      "id": "inkling-batch",
+      "name": "inkling:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": false,
+      "released": "2026-07-17T22:05:56.000Z"
+    },
+    {
+      "id": "intellect-3",
+      "name": "intellect-3",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-11-27T03:02:14.000Z"
+    },
+    {
+      "id": "jamba-large-1-7",
+      "name": "jamba-large-1.7",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-08-08T16:03:40.000Z"
+    },
+    {
+      "id": "jev-router",
+      "name": "jev-router",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-25T19:12:40.000Z"
+    },
+    {
+      "id": "kat-coder-air-v2-5",
+      "name": "kat-coder-air-v2.5",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-07-10T20:16:30.000Z"
+    },
+    {
+      "id": "kat-coder-pro-v2",
+      "name": "kat-coder-pro-v2",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-03-27T22:08:30.000Z"
+    },
+    {
+      "id": "kat-coder-pro-v2-5",
+      "name": "kat-coder-pro-v2.5",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-07-10T20:16:29.000Z"
+    },
+    {
+      "id": "kimi-k2",
+      "name": "kimi-k2",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": false,
+      "released": "2025-07-11T19:47:32.000Z"
+    },
+    {
+      "id": "kimi-k2-0905",
+      "name": "kimi-k2-0905",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-09-04T21:25:47.000Z"
+    },
+    {
+      "id": "kimi-k2-thinking",
+      "name": "kimi-k2-thinking",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-11-06T14:50:22.000Z"
+    },
+    {
+      "id": "kimi-k2-5",
+      "name": "kimi-k2.5",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-01-27T04:11:16.000Z"
+    },
+    {
+      "id": "kimi-k2-6",
+      "name": "kimi-k2.6",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-04-20T15:36:42.000Z"
+    },
+    {
+      "id": "kimi-k2-7-code",
+      "name": "kimi-k2.7-code",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-06-12T12:12:41.000Z"
+    },
+    {
+      "id": "kimi-k3",
+      "name": "kimi-k3",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-07-16T15:30:58.000Z"
+    },
+    {
+      "id": "kimi-k3-batch",
+      "name": "kimi-k3:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-07-16T15:30:58.000Z"
+    },
+    {
+      "id": "kimi-latest",
+      "name": "kimi-latest",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-04-27T19:33:48.000Z"
+    },
+    {
+      "id": "l3-lunaris-8b",
+      "name": "l3-lunaris-8b",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2024-08-13T00:00:00.000Z"
+    },
+    {
+      "id": "l3-1-70b-hanami-x1",
+      "name": "l3.1-70b-hanami-x1",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2025-01-08T02:20:54.000Z"
+    },
+    {
+      "id": "l3-1-euryale-70b",
+      "name": "l3.1-euryale-70b",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2024-08-28T00:00:00.000Z"
+    },
+    {
+      "id": "l3-3-euryale-70b",
+      "name": "l3.3-euryale-70b",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2024-12-18T15:32:08.000Z"
+    },
+    {
+      "id": "laguna-m-1",
+      "name": "laguna-m.1",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": false,
+      "released": "2026-04-28T15:01:44.000Z"
+    },
+    {
+      "id": "laguna-s-2-1",
+      "name": "laguna-s-2.1",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": false,
+      "released": "2026-07-21T16:51:23.000Z"
+    },
+    {
+      "id": "laguna-xs-2-1",
+      "name": "laguna-xs-2.1",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": false,
+      "released": "2026-07-02T14:27:09.000Z"
+    },
+    {
+      "id": "laguna-xs-2",
+      "name": "laguna-xs.2",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": false,
+      "released": "2026-04-28T15:20:04.000Z"
+    },
+    {
+      "id": "lfm-2-24b-a2b",
+      "name": "lfm-2-24b-a2b",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2026-02-25T19:45:11.000Z"
+    },
+    {
+      "id": "lfm-2-5-1-2b-instruct",
+      "name": "lfm-2.5-1.2b-instruct",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2026-01-20T16:45:21.000Z"
+    },
+    {
+      "id": "lfm-2-5-1-2b-thinking",
+      "name": "lfm-2.5-1.2b-thinking",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-01-20T16:45:27.000Z"
+    },
+    {
+      "id": "lfm-2-5-2-6b",
+      "name": "lfm-2.5-2.6b",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-08-11T17:48:39.000Z"
+    },
+    {
+      "id": "ling-2-6-1t",
+      "name": "ling-2.6-1t",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-04-23T12:43:58.000Z"
+    },
+    {
+      "id": "ling-2-6-flash",
+      "name": "ling-2.6-flash",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-04-21T18:24:46.000Z"
+    },
+    {
+      "id": "ling-3-0-flash",
+      "name": "ling-3.0-flash",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-07-23T14:56:20.000Z"
+    },
+    {
+      "id": "ling-3-0-flash-fin",
+      "name": "ling-3.0-flash-fin",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": false,
+      "released": "2026-08-27T15:58:10.000Z"
+    },
+    {
+      "id": "ling-3-0-flash-sante",
+      "name": "ling-3.0-flash-sante",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": false,
+      "released": "2026-09-04T18:19:06.000Z"
+    },
+    {
+      "id": "ling-3-0-flash-vl",
+      "name": "ling-3.0-flash-vl",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-10T16:01:54.000Z"
+    },
+    {
+      "id": "ling-3-1-flash",
+      "name": "ling-3.1-flash",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": false,
+      "released": "2026-10-02T14:07:04.000Z"
+    },
+    {
+      "id": "llama-3-70b-instruct",
+      "name": "llama-3-70b-instruct",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2024-04-18T00:00:00.000Z"
+    },
+    {
+      "id": "llama-3-8b-instruct",
+      "name": "llama-3-8b-instruct",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2024-04-18T00:00:00.000Z"
+    },
+    {
+      "id": "llama-3-1-70b-instruct",
+      "name": "llama-3.1-70b-instruct",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2024-07-23T00:00:00.000Z"
+    },
+    {
+      "id": "llama-3-1-8b-instruct",
+      "name": "llama-3.1-8b-instruct",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2024-07-23T00:00:00.000Z"
+    },
+    {
+      "id": "llama-3-2-11b-vision-instruct",
+      "name": "llama-3.2-11b-vision-instruct",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2024-09-25T00:00:00.000Z"
+    },
+    {
+      "id": "llama-3-2-1b-instruct",
+      "name": "llama-3.2-1b-instruct",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": false,
+      "released": "2024-09-25T00:00:00.000Z"
+    },
+    {
+      "id": "llama-3-2-3b-instruct",
+      "name": "llama-3.2-3b-instruct",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2024-09-25T00:00:00.000Z"
+    },
+    {
+      "id": "llama-3-3-70b-instruct",
+      "name": "llama-3.3-70b-instruct",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2024-12-06T17:28:57.000Z"
+    },
+    {
+      "id": "llama-3-3-nemotron-super-49b-v1-5",
+      "name": "llama-3.3-nemotron-super-49b-v1.5",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-10-10T13:03:15.000Z"
+    },
+    {
+      "id": "llama-4-maverick",
+      "name": "llama-4-maverick",
+      "provider": "llm7-io",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-04-05T19:37:02.000Z"
+    },
+    {
+      "id": "llama-4-scout",
+      "name": "llama-4-scout",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-04-05T19:31:59.000Z"
+    },
+    {
+      "id": "llama-guard-4-12b",
+      "name": "llama-guard-4-12b",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": false,
+      "released": "2025-04-30T01:06:33.000Z"
+    },
+    {
+      "id": "longcat-2-0",
+      "name": "longcat-2.0",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": false,
+      "released": "2026-07-20T13:37:38.000Z"
+    },
+    {
+      "id": "lyria-3-clip-preview",
+      "name": "lyria-3-clip-preview",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2026-03-30T21:47:35.000Z"
+    },
+    {
+      "id": "lyria-3-pro-preview",
+      "name": "lyria-3-pro-preview",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2026-03-30T21:48:06.000Z"
+    },
+    {
+      "id": "magnum-v4-72b",
+      "name": "magnum-v4-72b",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2024-10-22T00:00:00.000Z"
+    },
+    {
+      "id": "mercury-2",
+      "name": "mercury-2",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-03-04T14:57:55.000Z"
+    },
+    {
+      "id": "mercury-2-5",
+      "name": "mercury-2.5",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-08T18:28:57.000Z"
+    },
+    {
+      "id": "mercury-2-5-preview",
+      "name": "mercury-2.5-preview",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-08-31T20:57:44.000Z"
+    },
+    {
+      "id": "mimo-v2-flash",
+      "name": "mimo-v2-flash",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-12-14T16:55:08.000Z"
+    },
+    {
+      "id": "mimo-v2-5",
+      "name": "mimo-v2.5",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-04-22T16:11:09.000Z"
+    },
+    {
+      "id": "mimo-v2-5-pro",
+      "name": "mimo-v2.5-pro",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-04-22T16:11:13.000Z"
+    },
+    {
+      "id": "mimo-v2-6-flash",
+      "name": "mimo-v2.6-flash",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-21T20:07:44.000Z"
+    },
+    {
+      "id": "mimo-v2-6-pro",
+      "name": "mimo-v2.6-pro",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-21T20:07:39.000Z"
+    },
+    {
+      "id": "mimo-v2-6-pro-ultraspeed",
+      "name": "mimo-v2.6-pro-ultraspeed",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-21T20:07:47.000Z"
+    },
+    {
+      "id": "minimax-01",
+      "name": "minimax-01",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": false,
+      "released": "2025-01-15T04:31:02.000Z"
+    },
+    {
+      "id": "minimax-m1",
+      "name": "minimax-m1",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": false,
+      "released": "2025-06-17T22:46:54.000Z"
+    },
+    {
+      "id": "minimax-m2",
+      "name": "minimax-m2",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-10-23T20:41:33.000Z"
+    },
+    {
+      "id": "minimax-m2-her",
+      "name": "minimax-m2-her",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": false,
+      "released": "2026-01-23T14:07:19.000Z"
+    },
+    {
+      "id": "minimax-m2-1",
+      "name": "minimax-m2.1",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-12-23T01:56:37.000Z"
+    },
+    {
+      "id": "minimax-m2-5",
+      "name": "minimax-m2.5",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-02-12T15:01:42.000Z"
+    },
+    {
+      "id": "minimax-m2-7",
+      "name": "minimax-m2.7",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-03-18T12:24:57.000Z"
+    },
+    {
+      "id": "minimax-m3",
+      "name": "minimax-m3",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-05-31T16:36:14.000Z"
+    },
+    {
+      "id": "minimax-m3-batch",
+      "name": "minimax-m3:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-05-31T16:36:14.000Z"
+    },
+    {
+      "id": "ministral-14b-2512",
+      "name": "ministral-14b-2512",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-12-02T13:22:15.000Z"
+    },
+    {
+      "id": "ministral-3b-2512",
+      "name": "ministral-3b-2512",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-12-02T13:19:20.000Z"
+    },
+    {
+      "id": "ministral-8b-2512",
+      "name": "ministral-8b-2512",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-12-02T13:20:54.000Z"
+    },
+    {
+      "id": "ministral-8b-2512-batch",
+      "name": "ministral-8b-2512:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-12-02T13:20:54.000Z"
+    },
+    {
+      "id": "mistral-large",
+      "name": "mistral-large",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2024-02-26T00:00:00.000Z"
+    },
+    {
+      "id": "mistral-large-2407",
+      "name": "mistral-large-2407",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2024-11-19T01:06:55.000Z"
+    },
+    {
+      "id": "mistral-large-2512",
+      "name": "mistral-large-2512",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-12-01T21:27:52.000Z"
+    },
+    {
+      "id": "mistral-large-2512-batch",
+      "name": "mistral-large-2512:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-12-01T21:27:52.000Z"
+    },
+    {
+      "id": "mistral-large-4-0",
+      "name": "mistral-large-4-0",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-10-06T13:42:02.000Z"
+    },
+    {
+      "id": "mistral-medium-3",
+      "name": "mistral-medium-3",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-05-07T14:15:41.000Z"
+    },
+    {
+      "id": "mistral-medium-3-5",
+      "name": "mistral-medium-3-5",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-04-30T17:33:59.000Z"
+    },
+    {
+      "id": "mistral-medium-3-5-batch",
+      "name": "mistral-medium-3-5:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-04-30T17:33:59.000Z"
+    },
+    {
+      "id": "mistral-medium-3-1",
+      "name": "mistral-medium-3.1",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-08-13T14:33:59.000Z"
+    },
+    {
+      "id": "mistral-medium-3-1-batch",
+      "name": "mistral-medium-3.1:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-08-13T14:33:59.000Z"
+    },
+    {
+      "id": "mistral-nemo",
+      "name": "mistral-nemo",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2024-07-19T00:00:00.000Z"
+    },
+    {
+      "id": "mistral-saba",
+      "name": "mistral-saba",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-02-17T14:40:39.000Z"
+    },
+    {
+      "id": "mistral-small-24b-instruct-2501",
+      "name": "mistral-small-24b-instruct-2501",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2025-01-30T16:43:29.000Z"
+    },
+    {
+      "id": "mistral-small-2603",
+      "name": "mistral-small-2603",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-03-16T21:14:45.000Z"
+    },
+    {
+      "id": "mistral-small-2603-batch",
+      "name": "mistral-small-2603:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-03-16T21:14:45.000Z"
+    },
+    {
+      "id": "mistral-small-3-1-24b-instruct",
+      "name": "mistral-small-3.1-24b-instruct",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-03-17T19:15:37.000Z"
+    },
+    {
+      "id": "mistral-small-3-2-24b-instruct",
+      "name": "mistral-small-3.2-24b-instruct",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-06-20T18:10:16.000Z"
+    },
+    {
+      "id": "mixtral-8x22b-instruct",
+      "name": "mixtral-8x22b-instruct",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2024-04-17T00:00:00.000Z"
+    },
+    {
+      "id": "morph-v3-fast",
+      "name": "morph-v3-fast",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": false,
+      "released": "2025-07-07T17:40:02.000Z"
+    },
+    {
+      "id": "morph-v3-large",
+      "name": "morph-v3-large",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2025-07-07T17:54:18.000Z"
+    },
+    {
+      "id": "muse-glimmer-30b",
+      "name": "muse-glimmer-30b",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-08-09T19:06:34.000Z"
+    },
+    {
+      "id": "muse-glimmer-30b-batch",
+      "name": "muse-glimmer-30b:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-08-09T19:06:34.000Z"
+    },
+    {
+      "id": "muse-spark-1-1",
+      "name": "muse-spark-1.1",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-07-16T15:29:01.000Z"
+    },
+    {
+      "id": "muse-spark-1-2",
+      "name": "muse-spark-1.2",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-08-05T19:48:07.000Z"
+    },
+    {
+      "id": "muse-spark-1-2-contributor",
+      "name": "muse-spark-1.2-contributor",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-08-21T18:21:16.000Z"
+    },
+    {
+      "id": "muse-spark-1-3",
+      "name": "muse-spark-1.3",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-02T19:45:59.000Z"
+    },
+    {
+      "id": "muse-spark-1-3-contributor",
+      "name": "muse-spark-1.3-contributor",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-02T20:38:39.000Z"
+    },
+    {
+      "id": "mythomax-l2-13b",
+      "name": "mythomax-l2-13b",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2023-07-02T00:00:00.000Z"
+    },
+    {
+      "id": "nemotron-3-nano-30b-a3b",
+      "name": "nemotron-3-nano-30b-a3b",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-12-14T16:54:35.000Z"
+    },
+    {
+      "id": "nemotron-3-nano-omni-30b-a3b-reasoning",
+      "name": "nemotron-3-nano-omni-30b-a3b-reasoning",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": false,
+      "released": "2026-04-28T16:18:15.000Z"
+    },
+    {
+      "id": "nemotron-3-super-120b-a12b",
+      "name": "nemotron-3-super-120b-a12b",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-03-11T16:07:19.000Z"
+    },
+    {
+      "id": "nemotron-3-ultra-550b-a55b",
+      "name": "nemotron-3-ultra-550b-a55b",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": false,
+      "released": "2026-06-04T05:33:28.000Z"
+    },
+    {
+      "id": "nemotron-3-5-content-safety",
+      "name": "nemotron-3.5-content-safety",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": false,
+      "released": "2026-06-04T14:04:24.000Z"
+    },
+    {
+      "id": "nemotron-3-5-lightning",
+      "name": "nemotron-3.5-lightning",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": false,
+      "released": "2026-08-11T12:52:31.000Z"
+    },
+    {
+      "id": "nemotron-nano-12b-v2-vl",
+      "name": "nemotron-nano-12b-v2-vl",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": false,
+      "released": "2025-10-28T18:19:25.000Z"
+    },
+    {
+      "id": "nemotron-nano-9b-v2",
+      "name": "nemotron-nano-9b-v2",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-09-05T21:13:27.000Z"
+    },
+    {
+      "id": "nex-n2-mini",
+      "name": "nex-n2-mini",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-06-24T14:56:04.000Z"
+    },
+    {
+      "id": "nex-n2-pro",
+      "name": "nex-n2-pro",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": false,
+      "released": "2026-06-08T16:45:40.000Z"
+    },
+    {
+      "id": "nex-n2-5-mini",
+      "name": "nex-n2.5-mini",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2026-09-08T17:54:21.000Z"
+    },
+    {
+      "id": "nex-n2-5-pro",
+      "name": "nex-n2.5-pro",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-08T17:54:10.000Z"
+    },
+    {
+      "id": "north-mini-code",
+      "name": "north-mini-code",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": false,
+      "released": "2026-06-17T19:15:48.000Z"
+    },
+    {
+      "id": "nova-2-lite-v1",
+      "name": "nova-2-lite-v1",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": false,
+      "released": "2025-12-02T17:31:12.000Z"
+    },
+    {
+      "id": "nova-lite-v1",
+      "name": "nova-lite-v1",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": false,
+      "released": "2024-12-05T22:22:43.000Z"
+    },
+    {
+      "id": "nova-micro-v1",
+      "name": "nova-micro-v1",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": false,
+      "released": "2024-12-05T22:20:37.000Z"
+    },
+    {
+      "id": "nova-premier-v1",
+      "name": "nova-premier-v1",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": false,
+      "released": "2025-10-31T22:38:52.000Z"
+    },
+    {
+      "id": "nova-pro-v1",
+      "name": "nova-pro-v1",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": false,
+      "released": "2024-12-05T22:05:03.000Z"
+    },
+    {
+      "id": "o1",
+      "name": "o1",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2024-12-17T18:26:39.000Z"
+    },
+    {
+      "id": "o1-pro",
+      "name": "o1-pro",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2025-03-19T22:26:51.000Z"
+    },
+    {
+      "id": "o3",
+      "name": "o3",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-04-16T17:10:57.000Z"
+    },
+    {
+      "id": "o3-deep-research",
+      "name": "o3-deep-research",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-10-10T20:54:21.000Z"
+    },
+    {
+      "id": "o3-mini",
+      "name": "o3-mini",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-01-31T19:28:41.000Z"
+    },
+    {
+      "id": "o3-mini-high",
+      "name": "o3-mini-high",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-02-12T15:03:31.000Z"
+    },
+    {
+      "id": "o3-mini-batch",
+      "name": "o3-mini:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-01-31T19:28:41.000Z"
+    },
+    {
+      "id": "o3-pro",
+      "name": "o3-pro",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-06-10T23:32:32.000Z"
+    },
+    {
+      "id": "o3-batch",
+      "name": "o3:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-04-16T17:10:57.000Z"
+    },
+    {
+      "id": "o4-mini",
+      "name": "o4-mini",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-04-16T16:29:02.000Z"
+    },
+    {
+      "id": "o4-mini-deep-research",
+      "name": "o4-mini-deep-research",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-10-10T20:54:02.000Z"
+    },
+    {
+      "id": "o4-mini-high",
+      "name": "o4-mini-high",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-04-16T17:23:32.000Z"
+    },
+    {
+      "id": "o4-mini-batch",
+      "name": "o4-mini:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-04-16T16:29:02.000Z"
+    },
+    {
+      "id": "olmo-3-32b-think",
+      "name": "olmo-3-32b-think",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2025-11-21T20:51:16.000Z"
+    },
+    {
+      "id": "owl-alpha",
+      "name": "owl-alpha",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-04-28T17:49:49.000Z"
+    },
+    {
+      "id": "palmyra-x5",
+      "name": "palmyra-x5",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": false,
+      "released": "2026-01-21T13:57:03.000Z"
+    },
+    {
+      "id": "pareto",
+      "name": "pareto",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-17T23:02:58.000Z"
+    },
+    {
+      "id": "pareto-26-10-preview",
+      "name": "pareto-26.10-preview",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": false,
+      "released": "2026-10-01T14:07:03.000Z"
+    },
+    {
+      "id": "pareto-code",
+      "name": "pareto-code",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": false,
+      "released": "2026-04-21T05:05:00.000Z"
+    },
+    {
+      "id": "perceptron-mk1",
+      "name": "perceptron-mk1",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2026-05-12T14:43:49.000Z"
+    },
+    {
+      "id": "perceptron-mk1-5",
+      "name": "perceptron-mk1.5",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-25T16:11:01.000Z"
+    },
+    {
+      "id": "phi-4",
+      "name": "phi-4",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2025-01-10T06:17:52.000Z"
+    },
+    {
+      "id": "phi-4-mini-instruct",
+      "name": "phi-4-mini-instruct",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2025-10-17T18:34:09.000Z"
+    },
+    {
+      "id": "qwen-2-5-72b-instruct",
+      "name": "qwen-2.5-72b-instruct",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2024-09-19T00:00:00.000Z"
+    },
+    {
+      "id": "qwen-2-5-7b-instruct",
+      "name": "qwen-2.5-7b-instruct",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2024-10-16T00:00:00.000Z"
+    },
+    {
+      "id": "qwen-2-5-coder-32b-instruct",
+      "name": "qwen-2.5-coder-32b-instruct",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2024-11-11T23:40:00.000Z"
+    },
+    {
+      "id": "qwen-plus",
+      "name": "qwen-plus",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-02-01T11:37:20.000Z"
+    },
+    {
+      "id": "qwen-plus-2025-07-28",
+      "name": "qwen-plus-2025-07-28",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-09-08T16:06:39.000Z"
+    },
+    {
+      "id": "qwen-plus-2025-07-28-thinking",
+      "name": "qwen-plus-2025-07-28:thinking",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-09-08T16:06:39.000Z"
+    },
+    {
+      "id": "qwen2-5-vl-72b-instruct",
+      "name": "qwen2.5-vl-72b-instruct",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2025-02-01T11:45:11.000Z"
+    },
+    {
+      "id": "qwen3-14b",
+      "name": "qwen3-14b",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-04-28T21:41:18.000Z"
+    },
+    {
+      "id": "qwen3-235b-a22b",
+      "name": "qwen3-235b-a22b",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-04-28T21:29:17.000Z"
+    },
+    {
+      "id": "qwen3-235b-a22b-2507",
+      "name": "qwen3-235b-a22b-2507",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-07-21T17:39:15.000Z"
+    },
+    {
+      "id": "qwen3-235b-a22b-thinking-2507",
+      "name": "qwen3-235b-a22b-thinking-2507",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": false,
+      "released": "2025-07-25T13:19:17.000Z"
+    },
+    {
+      "id": "qwen3-30b-a3b",
+      "name": "qwen3-30b-a3b",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-04-28T22:16:44.000Z"
+    },
+    {
+      "id": "qwen3-30b-a3b-instruct-2507",
+      "name": "qwen3-30b-a3b-instruct-2507",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-07-29T16:36:05.000Z"
+    },
+    {
+      "id": "qwen3-30b-a3b-thinking-2507",
+      "name": "qwen3-30b-a3b-thinking-2507",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-08-28T16:39:52.000Z"
+    },
+    {
+      "id": "qwen3-32b",
+      "name": "qwen3-32b",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-04-28T21:32:25.000Z"
+    },
+    {
+      "id": "qwen3-8b",
+      "name": "qwen3-8b",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-04-28T21:43:52.000Z"
+    },
+    {
+      "id": "qwen3-coder",
+      "name": "qwen3-coder",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-07-23T00:29:06.000Z"
+    },
+    {
+      "id": "qwen3-coder-30b-a3b-instruct",
+      "name": "qwen3-coder-30b-a3b-instruct",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-07-31T14:32:59.000Z"
+    },
+    {
+      "id": "qwen3-coder-flash",
+      "name": "qwen3-coder-flash",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-09-17T13:25:36.000Z"
+    },
+    {
+      "id": "qwen3-coder-next",
+      "name": "qwen3-coder-next",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-02-04T00:15:01.000Z"
+    },
+    {
+      "id": "qwen3-coder-plus",
+      "name": "qwen3-coder-plus",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-09-23T21:25:07.000Z"
+    },
+    {
+      "id": "qwen3-max",
+      "name": "qwen3-max",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-09-23T21:26:48.000Z"
+    },
+    {
+      "id": "qwen3-max-thinking",
+      "name": "qwen3-max-thinking",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-02-09T21:18:21.000Z"
+    },
+    {
+      "id": "qwen3-next-80b-a3b-instruct",
+      "name": "qwen3-next-80b-a3b-instruct",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-09-11T17:36:53.000Z"
+    },
+    {
+      "id": "qwen3-next-80b-a3b-thinking",
+      "name": "qwen3-next-80b-a3b-thinking",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-09-11T17:38:04.000Z"
+    },
+    {
+      "id": "qwen3-vl-235b-a22b-instruct",
+      "name": "qwen3-vl-235b-a22b-instruct",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-09-23T23:04:47.000Z"
+    },
+    {
+      "id": "qwen3-vl-235b-a22b-thinking",
+      "name": "qwen3-vl-235b-a22b-thinking",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-09-23T23:04:50.000Z"
+    },
+    {
+      "id": "qwen3-vl-30b-a3b-instruct",
+      "name": "qwen3-vl-30b-a3b-instruct",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-10-06T23:47:56.000Z"
+    },
+    {
+      "id": "qwen3-vl-30b-a3b-thinking",
+      "name": "qwen3-vl-30b-a3b-thinking",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-10-06T23:47:59.000Z"
+    },
+    {
+      "id": "qwen3-vl-32b-instruct",
+      "name": "qwen3-vl-32b-instruct",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-10-23T14:55:32.000Z"
+    },
+    {
+      "id": "qwen3-vl-8b-instruct",
+      "name": "qwen3-vl-8b-instruct",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-10-14T17:35:08.000Z"
+    },
+    {
+      "id": "qwen3-vl-8b-thinking",
+      "name": "qwen3-vl-8b-thinking",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-10-14T17:42:26.000Z"
+    },
+    {
+      "id": "qwen3-5-122b-a10b",
+      "name": "qwen3.5-122b-a10b",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-02-25T21:09:49.000Z"
+    },
+    {
+      "id": "qwen3-5-27b",
+      "name": "qwen3.5-27b",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-02-25T21:10:10.000Z"
+    },
+    {
+      "id": "qwen3-5-35b-a3b",
+      "name": "qwen3.5-35b-a3b",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-02-25T21:10:22.000Z"
+    },
+    {
+      "id": "qwen3-5-397b-a17b",
+      "name": "qwen3.5-397b-a17b",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-02-16T06:23:38.000Z"
+    },
+    {
+      "id": "qwen3-5-9b",
+      "name": "qwen3.5-9b",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-03-10T14:19:56.000Z"
+    },
+    {
+      "id": "qwen3-5-9b-batch",
+      "name": "qwen3.5-9b:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-03-10T14:19:56.000Z"
+    },
+    {
+      "id": "qwen3-5-flash-02-23",
+      "name": "qwen3.5-flash-02-23",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-02-25T21:09:36.000Z"
+    },
+    {
+      "id": "qwen3-5-plus-02-15",
+      "name": "qwen3.5-plus-02-15",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-02-16T08:10:16.000Z"
+    },
+    {
+      "id": "qwen3-5-plus-20260420",
+      "name": "qwen3.5-plus-20260420",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-04-27T03:42:48.000Z"
+    },
+    {
+      "id": "qwen3-6-27b",
+      "name": "qwen3.6-27b",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-04-27T01:57:44.000Z"
+    },
+    {
+      "id": "qwen3-6-35b-a3b",
+      "name": "qwen3.6-35b-a3b",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-04-27T03:24:15.000Z"
+    },
+    {
+      "id": "qwen3-6-flash",
+      "name": "qwen3.6-flash",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-04-27T03:42:42.000Z"
+    },
+    {
+      "id": "qwen3-6-max-preview",
+      "name": "qwen3.6-max-preview",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-04-27T03:24:02.000Z"
+    },
+    {
+      "id": "qwen3-6-plus",
+      "name": "qwen3.6-plus",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-04-02T12:39:17.000Z"
+    },
+    {
+      "id": "qwen3-7-flash",
+      "name": "qwen3.7-flash",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-07-27T22:16:01.000Z"
+    },
+    {
+      "id": "qwen3-7-max",
+      "name": "qwen3.7-max",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-05-21T15:21:01.000Z"
+    },
+    {
+      "id": "qwen3-7-plus",
+      "name": "qwen3.7-plus",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-06-03T13:03:03.000Z"
+    },
+    {
+      "id": "qwen3-8-2-4t-a95b",
+      "name": "qwen3.8-2.4t-a95b",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-08-12T16:21:42.000Z"
+    },
+    {
+      "id": "qwen3-8-2-4t-a95b-batch",
+      "name": "qwen3.8-2.4t-a95b:batch",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-08-12T16:21:42.000Z"
+    },
+    {
+      "id": "qwen3-8-27b",
+      "name": "qwen3.8-27b",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-08-14T15:55:10.000Z"
+    },
+    {
+      "id": "qwen3-8-flash",
+      "name": "qwen3.8-flash",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-08-26T19:37:40.000Z"
+    },
+    {
+      "id": "qwen3-8-max",
+      "name": "qwen3.8-max",
+      "provider": "opencode",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-08-03T04:33:32.000Z"
+    },
+    {
+      "id": "qwen3-8-max-0902",
+      "name": "qwen3.8-max-0902",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-03T21:08:24.000Z"
+    },
+    {
+      "id": "qwen3-8-max-prime",
+      "name": "qwen3.8-max-prime",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-23T19:20:28.000Z"
+    },
+    {
+      "id": "qwen3-8-omni-flash",
+      "name": "qwen3.8-omni-flash",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-21T03:05:54.000Z"
+    },
+    {
+      "id": "reka-edge",
+      "name": "reka-edge",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-03-20T17:16:05.000Z"
+    },
+    {
+      "id": "reka-flash-3",
+      "name": "reka-flash-3",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2025-03-12T20:53:33.000Z"
+    },
+    {
+      "id": "relace-apply-3",
+      "name": "relace-apply-3",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": false,
+      "released": "2025-09-26T12:59:32.000Z"
+    },
+    {
+      "id": "relace-search",
+      "name": "relace-search",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-12-08T17:06:00.000Z"
+    },
+    {
+      "id": "remm-slerp-l2-13b",
+      "name": "remm-slerp-l2-13b",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2023-07-22T00:00:00.000Z"
+    },
+    {
+      "id": "ring-2-6-1t",
+      "name": "ring-2.6-1t",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-05-08T13:37:20.000Z"
+    },
+    {
+      "id": "rnj-1-instruct",
+      "name": "rnj-1-instruct",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-12-07T08:07:27.000Z"
+    },
+    {
+      "id": "rocinante-12b",
+      "name": "rocinante-12b",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2024-09-30T00:00:00.000Z"
+    },
+    {
+      "id": "router",
+      "name": "router",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2025-07-11T22:28:19.000Z"
+    },
+    {
+      "id": "sakana-namazu",
+      "name": "sakana-namazu",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-08-11T01:02:09.000Z"
+    },
+    {
+      "id": "schematron-v2-small",
+      "name": "schematron-v2-small",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2026-09-12T01:35:33.000Z"
+    },
+    {
+      "id": "schematron-v2-turbo",
+      "name": "schematron-v2-turbo",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2026-09-12T01:35:49.000Z"
+    },
+    {
+      "id": "seed-1-6",
+      "name": "seed-1.6",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-12-23T15:49:57.000Z"
+    },
+    {
+      "id": "seed-1-6-flash",
+      "name": "seed-1.6-flash",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-12-23T15:50:11.000Z"
+    },
+    {
+      "id": "seed-2-1-turbo",
+      "name": "seed-2-1-turbo",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-08-12T16:29:36.000Z"
+    },
+    {
+      "id": "seed-2-0-code",
+      "name": "seed-2.0-code",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-08-12T16:05:01.000Z"
+    },
+    {
+      "id": "seed-2-0-lite",
+      "name": "seed-2.0-lite",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-03-10T15:40:31.000Z"
+    },
+    {
+      "id": "seed-2-0-mini",
+      "name": "seed-2.0-mini",
+      "provider": "llm7-io",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-02-26T18:38:27.000Z"
+    },
+    {
+      "id": "skyfall-36b-v2",
+      "name": "skyfall-36b-v2",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2025-03-10T19:56:06.000Z"
+    },
+    {
+      "id": "solar-mini4",
+      "name": "solar-mini4",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-23T10:45:58.000Z"
+    },
+    {
+      "id": "solar-pro-3",
+      "name": "solar-pro-3",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-01-27T02:33:20.000Z"
+    },
+    {
+      "id": "solar-pro4",
+      "name": "solar-pro4",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-08-10T14:20:36.000Z"
+    },
+    {
+      "id": "sonar",
+      "name": "sonar",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": false,
+      "released": "2025-01-27T21:36:48.000Z"
+    },
+    {
+      "id": "sonar-deep-research",
+      "name": "sonar-deep-research",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": false,
+      "released": "2025-03-07T01:34:06.000Z"
+    },
+    {
+      "id": "sonar-pro",
+      "name": "sonar-pro",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": false,
+      "released": "2025-03-07T01:53:43.000Z"
+    },
+    {
+      "id": "sonar-pro-search",
+      "name": "sonar-pro-search",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2025-10-30T19:59:26.000Z"
+    },
+    {
+      "id": "sonar-reasoning-pro",
+      "name": "sonar-reasoning-pro",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": false,
+      "released": "2025-03-07T02:08:28.000Z"
+    },
+    {
+      "id": "space-bunny-alpha",
+      "name": "space-bunny-alpha",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-23T14:48:04.000Z"
+    },
+    {
+      "id": "step-3-5-flash",
+      "name": "step-3.5-flash",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": false,
+      "released": "2026-01-29T23:12:17.000Z"
+    },
+    {
+      "id": "step-3-7-flash",
+      "name": "step-3.7-flash",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-05-28T16:17:49.000Z"
+    },
+    {
+      "id": "step-5-preview",
+      "name": "step-5-preview",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-10-08T12:34:09.000Z"
+    },
+    {
+      "id": "switchyard",
+      "name": "switchyard",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": false,
+      "released": "2026-09-21T21:25:47.000Z"
+    },
+    {
+      "id": "ternary-bonsai-2-27b",
+      "name": "ternary-bonsai-2-27b",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-18T17:54:06.000Z"
+    },
+    {
+      "id": "trinity-large-thinking",
+      "name": "trinity-large-thinking",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": false,
+      "released": "2026-04-01T15:45:18.000Z"
+    },
+    {
+      "id": "trinity-mini",
+      "name": "trinity-mini",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-12-01T15:08:40.000Z"
+    },
+    {
+      "id": "ui-tars-1-5-7b",
+      "name": "ui-tars-1.5-7b",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2025-07-22T17:24:16.000Z"
+    },
+    {
+      "id": "union-alpha",
+      "name": "union-alpha",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2026-09-16T14:42:03.000Z"
+    },
+    {
+      "id": "unslopnemo-12b",
+      "name": "unslopnemo-12b",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2024-11-08T22:04:08.000Z"
+    },
+    {
+      "id": "virtuoso-large",
+      "name": "virtuoso-large",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": false,
+      "released": "2025-05-05T21:01:25.000Z"
+    },
+    {
+      "id": "voxtral-small-24b-2507",
+      "name": "voxtral-small-24b-2507",
+      "provider": "unknown",
+      "supportsTools": true,
+      "supportsJson": true,
+      "released": "2025-10-30T14:39:04.000Z"
+    },
+    {
+      "id": "weaver",
+      "name": "weaver",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2023-08-02T00:00:00.000Z"
+    },
+    {
+      "id": "wizardlm-2-8x22b",
+      "name": "wizardlm-2-8x22b",
+      "provider": "unknown",
+      "supportsTools": false,
+      "supportsJson": true,
+      "released": "2024-04-16T00:00:00.000Z"
+    }
+  ]
+}
